@@ -14,10 +14,10 @@
 `Basic Grunt` is a sample project which uses Grunt and Bower to manage dependencies and tasks.
 
 Following are some of the highlights of this project:
-1. Separated configurations for different tasks such as wiredep, grunt connect
-2. shared constants across configuration
-3. Angular and Bootstrap are used
-4. Custom bootstrap theme is used [Cerulean](http://bootswatch.com)
-5. Wiredep is used to inject dependencies such as angular and bootstrap
-6. Wiredep is used to inject project specific javascripts and css
-7. The project can be imported into Eclipse
+1. Separated configurations for different tasks such as wiredep, grunt connect 
+2. shared constants across configuration 
+3. Angular and Bootstrap are used 
+4. Custom bootstrap theme is used [Cerulean](http://bootswatch.com) 
+5. Wiredep is used to inject dependencies such as angular and bootstrap 
+6. Wiredep is used to inject project specific javascripts and css 
+7. The project can be imported into Eclipse 
