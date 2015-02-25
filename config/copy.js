@@ -5,6 +5,12 @@ module.exports= function(grunt, constants){
 		      // makes all src relative to cwd
 		      {expand: true, cwd: constants.app_folder, src: ['**'], dest: constants.tmp_folder},
 		    ],
-		  },
+	  },
+	  dist: {
+		    files: [
+		      // makes all src relative to cwd
+		      {expand: true, cwd: constants.app_folder, src: ['**'], dest: constants.dist_folder},
+		    ],
+	  },
 	}
 }
