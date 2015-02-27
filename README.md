@@ -24,3 +24,11 @@ Following are some of the highlights of this project:
 - Split tasks into smaller files instead of defining in Gruntfile.js
 - Font Awesome
 - grunt-usemin is used to minimise bower dependencies' files such as javascript and css files
+
+A sample AngularJS project is also implemented with the following highlights:
+- Top menu with dropdowns
+- Controllers
+- A set of different UI components such as tables, forms
+- Single Page Application
+- Angular Route is used
+- A configuration file to share data across our web app
