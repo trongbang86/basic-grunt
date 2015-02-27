@@ -1,5 +1,5 @@
 {
-  "name": "crashlab-frontend",
+  "name": "myapp-frontend",
   "main": [
     "app/**/*.js",
     "app/**/*.css"
