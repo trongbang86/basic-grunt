@@ -18,7 +18,9 @@ Following are some of the highlights of this project:
 - shared constants across configuration
 - Angular and Bootstrap are used
 - Custom bootstrap theme is used [Cerulean](http://bootswatch.com)
-- Wiredep is used to inject dependencies such as angular and bootstrap
-- Wiredep is used to inject project specific javascripts and css
+- Wiredep is used to inject project dependencies such as angular and bootstrap
+- Wiredep is used to inject project specific javascripts and css files
 - The project can be imported into Eclipse
 - Split tasks into smaller files instead of defining in Gruntfile.js
+- Font Awesome
+- grunt-usemin is used to minimise bower dependencies' files such as javascript and css files
