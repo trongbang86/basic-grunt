@@ -13,6 +13,13 @@
 
 `Basic Grunt` is a sample project which uses Grunt and Bower to manage dependencies and tasks.
 
+Prerequisites:
+- npm
+- bower
+- grunt
+- sonar (optional)
+- mysql (optional) for sonar
+
 Following are some of the highlights of this project:
 - Separated configurations for different tasks such as wiredep, grunt connect
 - shared constants across configuration
