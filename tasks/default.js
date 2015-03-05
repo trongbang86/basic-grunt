@@ -1,6 +1,8 @@
 module.exports= function(grunt, constants){
 	grunt.registerTask('serve',
-			['clean:dev','copy:dev','wiredep:dev','app_bower:dev','connect:livereload','watch']);
+			['auto_install','clean:dev','copy:dev',
+			 'wiredep:dev','app_bower:dev',
+			 'connect:livereload','watch']);
 
 	grunt.registerTask('app_bower','',function(target){
 		var src_base= constants.tmp_folder;

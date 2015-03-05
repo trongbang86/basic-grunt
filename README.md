@@ -31,4 +31,12 @@ A sample AngularJS project is also implemented with the following highlights:
 - A set of different UI components such as tables, forms
 - Single Page Application
 - Angular Route is used
-- A configuration file to share data across our web app
+- A configuration file to share data across our web app: constants.js
+- Sonar tasks
+- Karma tests are executed before building the app
+
+Available Tasks:
+- `grunt serve`
+- `grunt dist`
+- `grunt karma_sonar`
+- `grunt karma:dev`
